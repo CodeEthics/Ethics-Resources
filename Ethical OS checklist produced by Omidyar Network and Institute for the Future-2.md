@@ -56,6 +56,6 @@ security?
 connection?
 fulfilment?
 
-For more information, insight and evidence on the impact of displacement and the outcomes of using the New Economy Risk Model, visit http://www.thefederation.coop.
+For more information, insight and evidence on the impact of displacement and the outcomes of using the New Economy Risk Model, visit http://www.thefederation.coop/Displacement
 
 
